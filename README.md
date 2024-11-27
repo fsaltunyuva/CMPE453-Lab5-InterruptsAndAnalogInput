@@ -4,7 +4,7 @@
 
 In this lab, you will use
 
-![Figure 1](placeholder.png)
+![Figure 1](https://github.com/fsaltunyuva/CMPE453-Lab5-InterruptsAndAnalogInput/blob/main/Figure.png)
 
 1) Connect Arduino Base Shield to Arduino Uno.
 2) Grove Button should be connected to any digital interface of base shield.
